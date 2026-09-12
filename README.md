@@ -144,16 +144,16 @@ Specializing in breaking down ambiguous business problems into clean requirement
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyshNair&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=radical&title_color=ea580c&icon_color=dc2626&text_color=e2e8f0&bg_color=0f172a" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyshNair&layout=compact&hide_border=true&langs_count=8&theme=radical&title_color=ea580c&text_color=e2e8f0&bg_color=0f172a" height="175" alt="Top Languages" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyshNair&theme=radical&background=0f172a&ring=ea580c&fire=dc2626&currStreakLabel=ea580c&sideLabels=e2e8f0&dates=94a3b8&hide_border=true" alt="Streak Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyshNair&theme=coral&hide_border=true&area=true&bg_color=0f172a&color=ea580c&line=dc2626&point=ea580c" width="95%" alt="Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyshNair&theme=solarized_dark" width="95%" alt="Profile Summary & Year Activity" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyshNair&theme=solarized_dark" width="48%" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyshNair&theme=solarized_dark" width="48%" alt="Repository Stats" />
 
 </div>
 
@@ -214,11 +214,19 @@ Specializing in breaking down ambiguous business problems into clean requirement
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyshnair)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreysh.edu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyshNair)
+<a href="https://www.linkedin.com/in/shreysh-nair" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:shreyshnair@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/shreyshNair" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<br/>
+<br/><br/>
 
 **Build things that matter.**
 
