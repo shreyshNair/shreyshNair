@@ -17,9 +17,9 @@
 <br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shreyshNair&label=Profile%20Views&color=ea580c&style=flat-square)](https://github.com/shreyshNair)
-[![Followers](https://img.shields.io/github/followers/shreyshNair?label=Followers&style=flat-square&color=dc2626)](https://github.com/shreyshNair?tab=followers)
+[![Followers](https://img.shields.io/github/followers/shreyshNair?label=Followers&style=flat-square&color=ea580c)](https://github.com/shreyshNair?tab=followers)
 [![Stars](https://img.shields.io/github/stars/shreyshNair?label=Total%20Stars&style=flat-square&color=ea580c)](https://github.com/shreyshNair?tab=repositories)
-[![Repositories](https://img.shields.io/badge/Repos-Public-b91c1c?style=flat-square&logo=github)](https://github.com/shreyshNair?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repos-Public-ea580c?style=flat-square&logo=github)](https://github.com/shreyshNair?tab=repositories)
 
 </div>
 
@@ -144,16 +144,12 @@ Specializing in breaking down ambiguous business problems into clean requirement
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyshNair&theme=radical&background=0f172a&ring=ea580c&fire=dc2626&currStreakLabel=ea580c&sideLabels=e2e8f0&dates=94a3b8&hide_border=true" alt="Streak Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=shreyshNair&show_icons=true&theme=transparent&hide_border=true&title_color=EA580C&icon_color=EA580C&text_color=FFFFFF&ring_color=EA580C" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shreyshNair&layout=compact&theme=transparent&hide_border=true&title_color=EA580C&text_color=FFFFFF" height="175" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyshNair&theme=solarized_dark" width="95%" alt="Profile Summary & Year Activity" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyshNair&theme=solarized_dark" width="48%" alt="Top Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyshNair&theme=solarized_dark" width="48%" alt="Repository Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyshNair&theme=transparent&hide_border=true&ring=EA580C&fire=EA580C&currStreakNum=EA580C&sideNums=EA580C&currStreakLabel=EA580C&sideLabels=FFFFFF&dates=FFFFFF" alt="Streak Stats" />
 
 </div>
 
